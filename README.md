@@ -13,6 +13,7 @@ Now our problem is to classify all the documents into any one of the class.
 
 Count plot of different documents classes
 
-![Uploading download.png…]()
+![download](https://github.com/sunilwritings/Text-Classification-Using-CNN-s/assets/93305919/60aee5ff-e52b-4b83-96b6-dd0e5aa05ad2)
+
 
 
