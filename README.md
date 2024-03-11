@@ -11,3 +11,8 @@ so from document name, you can extract the label for that document.
 
 Now our problem is to classify all the documents into any one of the class.
 
+Count plot of different documents classes
+
+![Uploading download.png…]()
+
+
